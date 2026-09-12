@@ -53,5 +53,3 @@ public class Main {
 The program successfully print all the numbers from 1 to N.
 
 
-## Result:
-The program successfully print all the numbers from 1 to N. 
