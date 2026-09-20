@@ -20,8 +20,8 @@ To Write a Java program that takes an integer input N from the user and prints a
 
 ## Program:
 
-Developed by: V Mythili
-Register Number:  212223040123
+### Developed by: V Mythili
+### Register Number:  212223040123
 
 ```
 import java.util.Scanner;
